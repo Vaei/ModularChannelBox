@@ -2,7 +2,7 @@
 
 * [Google Doc Instructions available here] (https://docs.google.com/document/d/18gK96SybUZo6IQchlnH-d15BKcKONmJVAci0nI8jBtY/edit?usp=sharing)
 
-Customizeable ChannelBox for Users
+All Users
 ---------
 
 Re-order or remove options from channel box menus, change settings not available in the default menu (popup menu label, hiding instead of disabling unavailable items, removing symbol buttons), or simply to have it store your settings between restarts. You can also add custom menus and switch between them on the fly using the drop-down box in the provided UI.
