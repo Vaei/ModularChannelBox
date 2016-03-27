@@ -7,10 +7,13 @@ All Users
 
 * Re-order or remove options from channel box menus
 * Change settings not available in the default menu
-   - popup menu label
-   - hiding instead of disabling unavailable items
-   - removing symbol buttons,
+   - Hide popup menu labels
+   - Hide unavailable menu items instead of disabling them
+   - Remove symbol buttons from the upper-right of the ChannelBox
 * Store your settings between restarts
+   - Precision
+   - Names
+   - And more
 * Add custom menus and switch between them on the fly using the drop-down box in the provided UI
 
 Developer Use
