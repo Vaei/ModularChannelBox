@@ -1,5 +1,7 @@
 # ModularChannelBox
 
+WARNING: No longer works with later versions of Maya and will not be updated
+
 * [Google Doc Instructions available here] (https://docs.google.com/document/d/18gK96SybUZo6IQchlnH-d15BKcKONmJVAci0nI8jBtY/edit?usp=sharing)
 
 All Users
